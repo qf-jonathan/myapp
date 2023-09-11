@@ -5,3 +5,4 @@ db.sqlite3
 
 staticfiles_build
 .vercel
+.env*.local
